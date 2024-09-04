@@ -33,6 +33,3 @@ Then checkout to another branch and simply modify readme.md and push again so th
 ![Capture d'écran 2024-09-04 203559](https://github.com/user-attachments/assets/e99746ff-cf58-4097-a5f5-850d33b0be35)
 
 END
-
-https://github.com/docker/build-push-action
-https://github.com/aws-actions/configure-aws-credentials
